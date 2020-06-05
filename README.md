@@ -17,6 +17,6 @@ download_plotlyjs
 
 * [Python](https://www.python.org/) - Language used
 
-## Authors
+## Author
 
 * **Tony Jesuthasan** - [B-127](https://github.com/B-127)
